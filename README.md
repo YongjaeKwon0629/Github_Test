@@ -11,7 +11,7 @@ olsaijfoijoij
 aosiuhdoiashd
 ```
 ```
-pip installmatplotlib
+pip install matplotlib
 sudo apt update
 sudo apt upgrade
 ```
