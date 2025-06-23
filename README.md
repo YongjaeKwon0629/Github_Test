@@ -10,3 +10,8 @@ asiudhiwushdjfi
 olsaijfoijoij
 aosiuhdoiashd
 ```
+```
+pip installmatplotlib
+sudo apt update
+sudo apt upgrade
+```
